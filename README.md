@@ -17,3 +17,9 @@ Set application key
 And Migrate with
 
 `php artisan migrate`
+
+npm run developer
+
+You must put at least one tag in database tags table, in order to create(post) a Thread. 
+Write a comment on that Thread and you will see a new notification on navbar.
+
